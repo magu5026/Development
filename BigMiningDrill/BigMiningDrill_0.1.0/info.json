@@ -1,0 +1,9 @@
+{
+	"name":"BigMiningDrill",
+	"author":"magu5026",
+	"version":"0.1.0",
+	"title":"Big Mining Drill",
+	"description":"Add better Mining Drill.",
+	"factorio_version":"0.16",
+	"dependencies": ["base >= 0.16.0"]
+}

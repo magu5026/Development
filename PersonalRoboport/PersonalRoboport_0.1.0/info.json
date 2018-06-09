@@ -1,0 +1,9 @@
+{
+	"name":"PersonalRoboport",
+	"author":"magu5026",
+	"version":"0.1.0",
+	"title":"Personal Roboport MK2",
+	"description":"Add better Personal Roboport.",
+	"factorio_version":"0.14",
+	"dependencies": ["base >= 0.14.0"]
+}

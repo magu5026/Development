@@ -1,0 +1,9 @@
+{
+	"name":"altFuel",
+	"author":"magu5026",
+	"version":"0.0.1",
+	"title":"altanative fuel",
+	"description":"",
+	"factorio_version":"0.15",
+	"dependencies": ["base >= 0.15.31"]
+}
