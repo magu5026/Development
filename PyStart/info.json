@@ -1,0 +1,9 @@
+{
+	"name":"PyStart",
+	"author":"magu5026",
+	"version":"0.16.1",
+	"title":"PyStart",
+	"description":"PyStart",
+	"factorio_version":"0.16",
+	"dependencies": ["base >= 0.16.8", "pycoalprocessing"]
+}
